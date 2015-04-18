@@ -1,0 +1,3 @@
+pollutantmean("specdata", "sulfate", 1:10)
+source("pollutantmean.R")
+pollutantmean("specdata", "sulfate", 1:10)
